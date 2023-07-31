@@ -3,6 +3,8 @@
 Although I am fairly new to computer science in comparison to a lot of my peers. I love computer science so far and the creativity of it. I have not had the chance to dive into different technologies, but I am interest in learning web/app development as well as ML.
 
 Check out my [Linkedin!](https://www.linkedin.com/in/johnnydouci/) To get in touch heres my [School Email](johnnyhd@uci.edu) and my [Personal](dojohnny847@gmail.com)
+
+Johnny Do
 <!--
 **johnnnydo/johnnnydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

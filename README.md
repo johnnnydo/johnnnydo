@@ -1,4 +1,4 @@
- **Hello There! I'm Johnny, an aspiring Software Engineering and a 2nd Year Software Engineering Student at UC Irvine**
+ **Hello There! I'm Johnny, an aspiring Software Engineering and a 2nd Year Computer Science Student at UC Irvine**
 
 Although I am fairly new to computer science in comparison to a lot of my peers. I love computer science so far and the creativity of it. I have not had the chance to dive into different technologies, but I am interest in learning web/app development as well as ML.
 

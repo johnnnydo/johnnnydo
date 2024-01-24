@@ -4,6 +4,7 @@ Although I am fairly new to computer science in comparison to a lot of my peers.
 
 Check out my [Linkedin!](https://www.linkedin.com/in/johnnydouci/) To get in touch heres my [School Email](johnnyhd@uci.edu) and my [Personal](dojohnny847@gmail.com)!
 
+(If there is a project listed on my resume, but not my Appearing on my github page it is probably private!)
 <!--
 **johnnnydo/johnnnydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
